@@ -128,14 +128,16 @@ HALCYON/
 ## **🌟 Contributing & Collaboration**  
 We welcome contributions from **physicists, engineers, AI researchers, and fusion enthusiasts**! Whether you specialize in **plasma physics, high-performance computing, AI/ML, or neuromorphic engineering**, we encourage you to collaborate.  
 
-### **📌 How to Get Involved**  
-- **🔗 Fork the Repository:** Clone and contribute via pull requests.  
-- **📄 Read the Docs:** Check `/docs/` for implementation details.  
-- **💬 Join the Discussion:** Engage in issue tracking & research forums.  
-- **🚀 Run the Simulation:** Follow `/scripts/` for setup instructions.  
-
 ---
 
 ### **💡 The Future of Fusion is Here.**  
 **HALCYON** is more than a simulation—it's a step toward the **next generation of fusion energy research**. Join us as we **pioneer AI-driven stellarator innovation** and **redefine sustainable energy for the future**. 🚀  
+
+---
+## 📅 Weekly Progress Updates  
+Stay up-to-date with the latest developments in HALCYON:  
+
+📖 [Latest Update – February 9, 2025](docs/implementation/weekly-updates/2025-02-09.md)  
+📚 [All Updates](weekly-updates/)
+
 
