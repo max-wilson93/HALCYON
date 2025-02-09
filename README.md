@@ -138,6 +138,6 @@ We welcome contributions from **physicists, engineers, AI researchers, and fusio
 Stay up-to-date with the latest developments in HALCYON:  
 
 📖 [Latest Update – February 9, 2025](docs/implementation/weekly-updates/2025-02-09.md)  
-📚 [All Updates](weekly-updates/)
+📚 [All Updates](docs/implementation/weekly-updates/)
 
 
