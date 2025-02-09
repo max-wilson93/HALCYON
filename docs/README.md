@@ -35,11 +35,13 @@ HALCYON/
 │   ├── neuromorphic_ai/          # Spiking neural networks for real-time plasma control  
 │   ├── cuda_optimization/        # GPU acceleration for MHD solvers & Monte Carlo methods  
 │   └── reactor_engineering/      # Structural/materials analysis for reactor components  
-│── docs/  
+│── docs/                         
 │   ├── theory/                   # Theoretical background on fusion & plasma physics  
 │   ├── implementation/           # Technical guides on using the simulator  
-│   └── results/                  # Research findings & optimizations  
-│── data/                         # Simulation results & AI training data  
+│   └── results/                  # Research findings & optimizations
+|── config/                       #
+|── notebooks/                    #
+│── datasets/                     # Simulation results & AI training data  
 │── tests/                        # Unit & integration testing  
 │── scripts/                      # Automation tools for experiments  
 │── README.md                     # This document  
